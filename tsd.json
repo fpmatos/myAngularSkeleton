@@ -9,13 +9,34 @@
       "commit": "066819c65ff561ca109955e0b725c253e243f0a2"
     },
     "jquery/jquery.d.ts": {
-      "commit": "066819c65ff561ca109955e0b725c253e243f0a2"
+      "commit": "5ccabc86eca6cfcda2b7ec83cca31dbd07c8a31b"
     },
     "angular-ui-router/angular-ui-router.d.ts": {
       "commit": "066819c65ff561ca109955e0b725c253e243f0a2"
     },
     "lodash/lodash.d.ts": {
       "commit": "066819c65ff561ca109955e0b725c253e243f0a2"
+    },
+    "serve-static/serve-static.d.ts": {
+      "commit": "5ccabc86eca6cfcda2b7ec83cca31dbd07c8a31b"
+    },
+    "express/express.d.ts": {
+      "commit": "5ccabc86eca6cfcda2b7ec83cca31dbd07c8a31b"
+    },
+    "mime/mime.d.ts": {
+      "commit": "5ccabc86eca6cfcda2b7ec83cca31dbd07c8a31b"
+    },
+    "node/node.d.ts": {
+      "commit": "5ccabc86eca6cfcda2b7ec83cca31dbd07c8a31b"
+    },
+    "express-serve-static-core/express-serve-static-core.d.ts": {
+      "commit": "5ccabc86eca6cfcda2b7ec83cca31dbd07c8a31b"
+    },
+    "body-parser/body-parser.d.ts": {
+      "commit": "5ccabc86eca6cfcda2b7ec83cca31dbd07c8a31b"
+    },
+    "jasmine/jasmine.d.ts": {
+      "commit": "5ccabc86eca6cfcda2b7ec83cca31dbd07c8a31b"
     }
   }
 }

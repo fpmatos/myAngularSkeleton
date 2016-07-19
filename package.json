@@ -3,8 +3,13 @@
   "version": "0.0.0",
   "author": "",
   "main": "app/build/index.js",
-  "dependencies": {},
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "jquery": "^3.1.0"
+  },
   "devDependencies": {
+    "angular-mocks": "^1.5.7",
     "browser-sync": "^2.7.1",
     "del": "^1.1.1",
     "gulp": "^3.6.2",
@@ -19,6 +24,10 @@
     "gulp-typescript": "^2.7.3",
     "gulp-uglify": "^1.2.0",
     "gulp-usemin": "^0.3.11",
+    "jasmine-core": "^2.4.1",
+    "karma": "^1.1.1",
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-jasmine": "^1.0.2",
     "run-sequence": "^0.3.6",
     "typescript": "^1.5.0-beta",
     "wiredep": "^2.2.2"

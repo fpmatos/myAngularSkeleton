@@ -9,6 +9,8 @@
 		"emitDecoratorMetadata": true
 	},
 	"filesGlob": [
+		"./js/**/*.js",
+		"./test/**/*.js",
 		"./**/*.ts",
 		"./typings/**/*.d.ts",
 		"!./node_modules/**/*.ts"
